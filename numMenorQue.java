@@ -9,11 +9,11 @@ public class numMenorQue {
         System.out.println("ingrese el primer numero: ");
         double numero2 = num2.nextDouble();
         if(numero != numero2){
-            System.out.println("El numero es diferente a 20");
+            System.out.println("El numero"+numero "es diferente a"+numero2);
         }if(numero <= numero2){
-            System.ou.println("El numero es menor que 20");
+            System.ou.println("El numero"+ numero "es menor que"+numero2);
         }if(numero >= numero2){
-            System.out.println("El numero es menor o igual que 20")
+            System.out.println("El numero"+numero "es menor o igual que"+numero2)
         }
 
     
